@@ -1,4 +1,4 @@
-# Hi, I'm Michael 👋
+<p align="center"> <img src="Adobe Express - github banner lol(1).gif" alt="Profile banner" width="900" /> </p>
 
 I'm a recent Bachelor of IT graduate from RMIT University in Melbourne with experience across software development, full‑stack web applications, cloud fundamentals and networking concepts. I enjoy working on projects where I can break down problems and understand how things are connected to create practical, well‑structured outcomes.
 
