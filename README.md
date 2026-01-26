@@ -7,26 +7,30 @@ I'm a recent Bachelor of IT graduate from RMIT University in Melbourne with expe
 ## 🔧 My Skills
 
 ### 💻 Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=white)
 
 ### 🗄️ Databases, APIs & Testing  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)
-![SpiraPlan](https://img.shields.io/badge/SpiraPlan-0B6ABF?logo=spiraplan&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?logo=database&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-000000?logo=selenium&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-000000?logo=junit5&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-000000?logo=cucumber&logoColor=white)
+![SpiraPlan](https://img.shields.io/badge/SpiraPlan-000000?logo=spiraplan&logoColor=white)
 
 ### ⚙️ Tools & Platforms  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-000000?logo=jira&logoColor=white)
 
 ---
 
