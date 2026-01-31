@@ -38,3 +38,4 @@ Recent Bachelor of IT graduate from RMIT University in Melbourne with experience
 - 🧩 I’m always learning more about system design, cloud infrastructure, and new technologies.
 - 📫 Reach me at: **michaelpaps44@gmail.com**
 - 🎸 Fun fact: I also love writing music, playing guitar, and bouldering!
+  
