@@ -34,7 +34,7 @@ Bachelor of IT graduate from RMIT University in Melbourne with experience across
 
 ---
 
-- 📘 I’m currently pursuing an AWS Cloud Practitioner Certificate and working on a personal Unity game project.
+- 📘 I’m currently pursuing a CCNA certificate as well as working on a personal Unity game project!
 - 🧩 I’m always learning more about system design, cloud infrastructure, and new technologies.
 - 📫 Reach me at: **michaelpaps44@gmail.com**
 - 🎸 Fun fact: I also love writing music, playing guitar, and bouldering!
